@@ -40,4 +40,4 @@ function createTab(topic){
     tab.textContent = topic;
 
     return tab;
-}
+} 
